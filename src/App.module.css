@@ -1,0 +1,17 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  height: 100vh;
+  background-image: linear-gradient(to right, rgb(208, 208, 230), rgb(180, 128, 180));
+}
+
+.App h1{
+  word-spacing: 10px;
+  letter-spacing: 3px;
+  font-size: 2.5rem;
+}
+
+
+
